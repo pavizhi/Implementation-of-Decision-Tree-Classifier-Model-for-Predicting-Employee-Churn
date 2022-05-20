@@ -64,7 +64,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ![decision tree classifier model](info.png)
 ## Isnull:
 ![decision tree classifier model](./null.png)
-## Head:
+## Head using labelencoder:
 ![decision tree classifier model](./head2.png)
 ## Accuracy with entropy:
 ![decision tree classifier model](./accuracy.png)
